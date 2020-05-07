@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springcloud-fitness-api-member-service:war">
+    <output-path>$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-member-service/target</output-path>
+    <root id="archive" name="springcloud-fitness-api-member-service.war">
+      <element id="artifact" artifact-name="springcloud-fitness-api-member-service:war exploded" />
+    </root>
+  </artifact>
+</component>

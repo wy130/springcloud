@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client/springcloud-config-client.iml" filepath="$PROJECT_DIR$/springcloud-config-client/springcloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server/springcloud-config-server.iml" filepath="$PROJECT_DIR$/springcloud-config-server/springcloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-member-service/springcloud-fitness-api-member-service.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-member-service/springcloud-fitness-api-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-member-service-impl/springcloud-fitness-api-member-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-member-service-impl/springcloud-fitness-api-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-order-service/springcloud-fitness-api-order-service.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-order-service/springcloud-fitness-api-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-order-service-impl/springcloud-fitness-api-order-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-order-service-impl/springcloud-fitness-api-order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-service.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-api-service/springcloud-fitness-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-common/springcloud-fitness-common.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-common/springcloud-fitness-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-parent.iml" filepath="$PROJECT_DIR$/springcloud-fitness-parent/springcloud-fitness-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul-gateway/springcloud-zuul-gateway.iml" filepath="$PROJECT_DIR$/springcloud-zuul-gateway/springcloud-zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>

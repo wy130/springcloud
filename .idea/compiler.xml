@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-config-client" />
+        <module name="springcloud-config-server" />
+        <module name="springcloud-eureka-server" />
+        <module name="springcloud-fitness-api-member-service" />
+        <module name="springcloud-fitness-api-member-service-impl" />
+        <module name="springcloud-fitness-api-order-service" />
+        <module name="springcloud-fitness-api-order-service-impl" />
+        <module name="springcloud-fitness-common" />
+        <module name="springcloud-zuul-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-config-client" target="1.8" />
+      <module name="springcloud-config-server" target="1.8" />
+      <module name="springcloud-eureka-server" target="1.8" />
+      <module name="springcloud-fitness-api-member-service" target="1.7" />
+      <module name="springcloud-fitness-api-member-service-impl" target="1.7" />
+      <module name="springcloud-fitness-api-order-service" target="1.7" />
+      <module name="springcloud-fitness-api-order-service-impl" target="1.7" />
+      <module name="springcloud-fitness-api-service" target="1.8" />
+      <module name="springcloud-fitness-common" target="1.7" />
+      <module name="springcloud-fitness-parent" target="1.8" />
+      <module name="springcloud-zuul-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
